@@ -1,0 +1,12 @@
+:root {
+  --color-primary: #F2F2F2;
+  --color-primary-dark: #DFDCD3;
+  --color-secondary: #F2B035;
+  --color-secondary-dark: #C45918;
+  --color-dark: #000;
+  --color-accent: #DADFE5;
+  --color-text: #000;
+
+  --font-secondary: "Multi", sans-serif;
+  --font-primary: "Crimson Text", serif;
+}
