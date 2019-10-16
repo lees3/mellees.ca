@@ -1,18 +1,18 @@
 title: "Buttons"
 description: |
-The buttons are one of the only elements on the page using the bright orange colour. This makes them stand out and are unique against the turquoise background.
+Buttons will be used sparingly throughout my website to keep it clean and organized.
 
 patterns:
   basic:
     title: "Basic"
     description: |
-    The basic buttons are bright orange with rounded corners. The colour contrasts well as it compliments the turquoise colour.
+    This button will be used on the home page to view specific portfolio pieces.
     width: "12em"
 
     ghost:
       title: "Ghost"
       description: |
-      The ghost button is will be for banners and busier image cards. It has a lighter colour orange than the regular buttons.
+      This button will be used on the contact pages.
       background: "--color-primary-light"
 
       light:
@@ -22,4 +22,4 @@ patterns:
           example: "See collection"
           - name: url
           type: url
-          example: "/bath-bomb"
+          example: "/ashley-hair-design"

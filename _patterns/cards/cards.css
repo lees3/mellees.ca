@@ -1,0 +1,15 @@
+.timeline-card {
+  border-style: solid;
+  border-radius: 4px;
+  max-width: 20rem;
+  min-height: 25rem;
+  border-width: 1px;
+}
+
+.pieces-card {
+  border-style: solid;
+  border-radius: 4px;
+  max-width: 20rem;
+  min-height: 25rem;
+  border-width: 1px;
+}
