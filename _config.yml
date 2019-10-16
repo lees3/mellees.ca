@@ -1,3 +1,12 @@
 permalink: pretty
 
 theme: jekyll_patternbot
+
+patternbot:
+  title: "Melissa Lees"
+  description: |
+    A pattern library for Melissa Lees' portfolio website.
+  font_url: "https://use.typekit.net/sdu8rvp.css"
+  rationales:
+    typefaces.primary:  |
+      Korolev was chosen for my portfolio because

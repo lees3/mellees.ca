@@ -1,0 +1,27 @@
+.btn {
+  background-color: var(--color-secondary-dark);
+  border-style: none;
+  color: var(--color-text);
+  font-family: var(--font-primary);
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: var(--color-dark);
+}
+
+.btn-ghost {
+  background-color: transparent;
+  color: var(--color-dark);
+  border: 1px solid var(--color-dark);
+}
+
+.btn-ghost:hover {
+  color: var(--color-accent);
+  background-color: var(--color-dark);
+}
+
+.btn-light {
+  background-color: var(--color-accent);
+  max-width: 1500px;
+}
