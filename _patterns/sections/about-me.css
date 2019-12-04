@@ -1,0 +1,43 @@
+.profile-photo {
+  margin-top: 4em;
+  max-width: 20em;
+}
+
+.bio {
+  margin-left: 12em;
+  margin-right: 12em;
+}
+
+h1 {
+  var(--color-primary);
+}
+
+p {
+  min-width: 20em;
+  text-align: left;
+}
+@media only screen and (min-width: 60em) {
+
+body {
+margin: auto;
+}
+
+}
+
+@media only screen and (max-width: 36em) {
+
+img {
+  min-width: 10em;
+  max-width: 20em;
+  margin: auto;
+  padding: auto;
+}
+
+}
+
+@media only screen and (max-width: 70em) {
+
+img {
+  max-width: 30em;
+}
+}

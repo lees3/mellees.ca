@@ -1,0 +1,24 @@
+# humanstxt.org
+
+# TEAM
+
+(Write all your team members’ information in here)
+(Any format you’d like—I usually use Markdown)
+
+---
+
+# THANKS
+
+unsplash.com
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+(Write what software you’re using)
+
+## Hosting
+
+(Write where the website is hosted & services)

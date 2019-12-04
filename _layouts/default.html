@@ -2,16 +2,26 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Portfolio</title>
+  <title>{{page.title}} • Melissa Lees' Portfolio</title>
+  <meta name="description" content="{{page.meta}}">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link href="/css/main.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://use.typekit.net/sdu8rvp.css"> rel="stylesheet">
+  <link rel="stylesheet" href="https://use.typekit.net/sdu8rvp.css">
+  <meta name="ICBM" content="45.41117, -75.69812">
+  <meta name="geo.position" content="ca-on">
+  <meta name="geo.placename" content="Ottawa">
 </head>
 <body>
+  <ul class="skip-links">
+    <li><a href="#pieces">Jump to pieces</a></li>
+    <li><a href="#about-me">Jump to about me</a></li>
+  </ul>
+<header role="banner" class="masthead" id="header">
+{% pattern headers/header %}
 
-  {% pattern header/header %}
-  {{content}}
+<main role="main" id="main" tabindex="0">
+    {{content}}
+  </main>
   {% pattern footers/footer %}
-
 </body>
 </html>

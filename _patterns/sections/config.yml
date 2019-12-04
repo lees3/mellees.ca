@@ -1,0 +1,15 @@
+title: "Sections"
+description: |
+  Something
+
+patterns:
+  timeline:
+    title: "Timeline"
+    description: |
+      Something
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.pieces[0]"
+          type: piece

@@ -1,0 +1,11 @@
+  <div class="unit xs-1 s-1 m-1 l-1">
+    <h2 class="push-none pad-t gutter yotta">{{include.data.heading-3}}</h2>
+    <p class="gutter">{{include.data.text-3}}</p>
+  </div>
+  <div class="grid">
+    {% for sketch in include.data.finals %}
+  <div class="unit xs-1 s-1 m-1 l-1 gutter timeline-card center-text">
+    <img class="img-flex" src="/images/{{sketch}}">
+  </div>
+  {% endfor%}
+</div>

@@ -9,17 +9,23 @@ patterns:
     This button will be used on the home page to view specific portfolio pieces.
     width: "12em"
 
-    ghost:
-      title: "Ghost"
+    pages:
+      title: "Pages"
       description: |
       This button will be used on the contact pages.
       background: "--color-primary-light"
+      fields:
+      - name: data
+        type: object
+        data:
+          source: "site.pieces[0]"
+          type: piece
 
-      light:
-        fields:
-          - name: text
-          type: string
-          example: "See collection"
-          - name: url
-          type: url
-          example: "/ashley-hair-design"
+        light:
+          fields:
+            - name: text
+            type: string
+            example: "See collection"
+            - name: url
+            type: url
+            example: "/ashley-hair-design"

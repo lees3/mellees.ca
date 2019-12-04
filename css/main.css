@@ -6,3 +6,21 @@
 {% include_relative type.css %}
 {% include_relative theme.css %}
 {%pattern_css%}
+
+/* img[src*="gif"] {
+  max-width: 50em;
+} */
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 8px;
+}
+
+a:hover {
+  color: var(--color-primary);
+}
+
+hr {
+  color: var(--color-dark);
+}

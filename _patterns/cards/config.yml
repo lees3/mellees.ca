@@ -1,24 +1,31 @@
 patterns:
-  pieces-card:
+  thinking-card:
     width: 400
     description: |
-      The pieces card is used on the homepage to display a single photo and brief description of the projfect
-    price: 4
+      The pieces card is used on the homepage to display a single photo and brief description of the project
     fields:
     - name: data
       type: object
       data:
-        source: "site.products[0]"
-        type: product
-
-          timeline-card:
-            width: 400
-            description: |
-              The timeline card is used on the project timeline page to display the process in which I took to develop my portfolio pieces.
-            price: 4
-            fields:
-            - name: data
-              type: object
-              data:
-                source: "site.products[0]"
-                type: product
+        source: "site.pieces[0]"
+        type: piece
+  sketches-card:
+    width: 400
+    description: |
+      The timeline card is used on the project timeline page to display the process in which I took to develop my portfolio pieces.
+    fields:
+    - name: data
+      type: object
+      data:
+        source: "site.pieces[0]"
+        type: piece
+  final-card:
+    width: 400
+    description: |
+      The timeline card is used on the project timeline page to display the process in which I took to develop my portfolio pieces.
+    fields:
+    - name: data
+      type: object
+      data:
+        source: "site.pieces[0]"
+        type: piece
