@@ -13,3 +13,8 @@
 .next-prev {
 
 }
+
+.next-prev-btns {
+  display: flex;
+  justify-content: center;
+}

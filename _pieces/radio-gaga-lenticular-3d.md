@@ -9,14 +9,10 @@ text: "This project was done as a simulated logo redesign for the business calle
 text-2: "Here are my initial sketches."
 text-3: "This is the final piece. The logo was put into a Logo Brand Guidelines booklet to be handed back to the client, outlining all of the branding information and ways that the logo should and should not be used."
 thinking:
-  - "radio-gaga/rg-2.jpg"
-  - "radio-gaga/rg-original.jpg"
-  - "radio-gaga/rg-1.jpg"
+  - "radio-gaga/radio-gaga-thinking.jpg"
 
 sketches:
-  - "radio-gaga/sketch-1.jpg"
-  - "radio-gaga/sketch-2.jpg"
+  - "radio-gaga/radio-gaga-sketches.jpg"
 finals:
-  - "radio-gaga/radio-gaga.jpg"
-  - "radio-gaga/radio-gaga-poster-mockup.jpg"
+  - "radio-gaga/radio-gaga-final.jpg"
 ---

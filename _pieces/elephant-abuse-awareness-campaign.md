@@ -12,10 +12,7 @@ thinking:
   - "elephant-campaign/thinking-1.jpg"
   - "elephant-campaign/thinking-2.jpg"
 sketches:
-  - "3-trees/sketch-1.jpg"
-  - "3-trees/sketch-2.jpg"
-  - "3-trees/sketch-3.jpg"
-  - "3-trees/sketch-4.jpg"
+  - "elephant-campaign/elephant-sketches.jpg"
 finals:
   - "elephant-campaign/elephant-campaign-poster.jpg"
   - "elephant-campaign/elephant-campaign-bus-ad.jpg"

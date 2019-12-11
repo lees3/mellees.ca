@@ -18,16 +18,8 @@ sketches:
   - "3-trees/sketch-3.jpg"
   - "3-trees/sketch-4.jpg"
 finals:
-  - "ashley/wooden-sign.jpg"
-  - "ashley/retail-tag/retail-tag-mockup.jpg"
-  - "ashley/business-cards/ashley-martin.jpg"
-  - "ashley/business-cards/ashleys-alisha-douglass.jpg"
-  - "ashley/business-cards/ashleys-hair-design-back.jpg"
-  - "ashley/business-cards/samantha-marcotte.jpg"
-  - "ashley/business-cards/business_cards_mock_up.jpg"
-  - "ashley/retail-tag/ashley-retail-tag-front.jpg"
-  - "ashley/retail-tag/ashley-retail-tag-back.jpg"
-  - "ashley/services-menu/ashley-services-menu.jpg"
+
+  - "ashley/ashley-photos.jpg"
 
 
 ---
