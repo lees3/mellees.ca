@@ -11,7 +11,7 @@
   max-width: 50em;
 } */
 
-a {
+/* a {
   text-decoration: none;
   display: inline-block;
   padding: 8px 8px;
@@ -19,7 +19,7 @@ a {
 
 a:hover {
   color: var(--color-primary);
-}
+} */
 
 hr {
   color: var(--color-dark);
