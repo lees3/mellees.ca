@@ -5,16 +5,13 @@ heading-2: "Sketches"
 heading-3: "Final"
 next_url: /pieces/3-trees-logo-redesign/
 prev_url: /pieces/radio-gaga-lenticular-3d/
-text: "This project was done as a simulated logo redesign for the business called 3 Trees. The original logo, included below, was hand drawn and inconsistent on both the store front and the website."
+text: "This was a tourism elephant abuse awareness campaign. This campaign was meant to shock and pull at the heart strings of North American tourists going to places such as Thailand and participating in supporting some of the non ethical "santucaries" that exist today. These pieces are interactive and innovative, as they have never been done before."
 text-2: "Here are my initial sketches."
-text-3: "This is the final piece. The logo was put into a Logo Brand Guidelines booklet to be handed back to the client, outlining all of the branding information and ways that the logo should and should not be used."
+text-3: "These are my final pieces. Please, go ahead and scan these QR codes with your phone."
 thinking:
-  - "elephant-campaign/thinking-1.jpg"
-  - "elephant-campaign/thinking-2.jpg"
+
 sketches:
-  - "elephant-campaign/elephant-sketches.jpg"
+
 finals:
-  - "elephant-campaign/elephant-campaign-poster.jpg"
-  - "elephant-campaign/elephant-campaign-bus-ad.jpg"
-  - "elephant-campaign/elephant-campaign-mockup.jpg"
+
 ---

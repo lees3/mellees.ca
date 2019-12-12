@@ -11,13 +11,5 @@ text-3: "This is the final piece. The logo was put into a Logo Brand Guidelines 
 thinking:
   - "3-trees/moodboard.jpg"
 sketches:
-  - "3-trees/sketch-1.jpg"
-  - "3-trees/sketch-2.jpg"
-  - "3-trees/sketch-3.jpg"
-  - "3-trees/sketch-4.jpg"
+
 finals:
-  - "3-trees/3-trees-colour.jpg"
-  - "3-trees/3-trees-black.jpg"
-  - "3-trees/3-trees-reversed.jpg"
-  - "3-trees/3-trees-retail-tags.jpg"
----

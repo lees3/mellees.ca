@@ -13,9 +13,9 @@
 
 html {
   font-family: var(--font-primary);
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 body {
-  overflow: hidden;
+  overflow-x: hidden;
 }

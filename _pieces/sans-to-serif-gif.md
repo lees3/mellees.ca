@@ -5,9 +5,9 @@ heading-2: "Sketches"
 heading-3: "Final"
 next_url: /pieces/radio-gaga-lenticular-3d/
 prev_url: /pieces/ashley-hair-design-and-retail-therapy-boutique/
-text: "This project was done as a simulated logo redesign for the business called 3 Trees. The original logo, included below, was hand drawn and inconsistent on both the store front and the website."
+text: "This GIF was made for fun. It demonstrates my love of typography in a playful way and is an easy tool to show beginner designers how to differentiate between a sans and a serif."
 text-2: "Here are my initial sketches."
-text-3: "This is the final piece. The logo was put into a Logo Brand Guidelines booklet to be handed back to the client, outlining all of the branding information and ways that the logo should and should not be used."
+text-3: "This is the final piece."
 thinking:
   - "gif/moodboard.jpg"
 sketches:
