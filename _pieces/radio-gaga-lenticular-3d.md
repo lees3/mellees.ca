@@ -9,9 +9,10 @@ text: "This project was done as an advertisement for Queen's album The Works, sp
 text-2: "Here are my initial sketches."
 text-3: "The final piece was created as a lenticular 3D poster!"
 thinking:
-  - "radio-gaga/radio-gaga-thinking.jpg"
+  - "radio-gaga/rg-1.jpg"
 sketches:
-  - "radio-gaga/radio-gaga-sketches.jpg"
+  - "radio-gaga/sketches/radio-gaga-sketches.jpg"
 finals:
   - "radio-gaga/radio-gaga-final.jpg"
+  - radio-gaga/radio-gaga-1.gif
 ---

@@ -1,0 +1,1 @@
+  2020-01-25 4:54:19 PM EST: Starting composition “radio-gaga”.  Output To: /Users/melissalees/Google Drive/mellees.ca/images/radio-gaga/radio-gaga.mov    2020-01-25 4:54:25 PM EST: Finished composition “radio-gaga”.  Total Time Elapsed: 6 SecondsLog closed on 2020-01-25 at 4:54:25 PM EST

@@ -11,7 +11,7 @@ text-3: "This is the final piece."
 thinking:
   - "gif/moodboard.jpg"
 sketches:
-  - "gif/sketch-1.jpg"
+  - "gif/sketches/sketch-mockup.jpg"
 finals:
   - "gif/sans-serif.gif"
 ---

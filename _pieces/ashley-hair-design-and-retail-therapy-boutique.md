@@ -9,13 +9,14 @@ text: "This is a rebrand I did for a salon in Manotick. I redesigned the logo, b
 text-2: "Here are my initial sketches."
 text-3: "This is the final piece. The logo was put into a Logo Brand Guidelines booklet to be handed back to the client, outlining all of the branding information and ways that the logo should and should not be used."
 thinking:
-  - "ashley/moodboards/ashley-moodboards.jpg"
+  - "ashley/moodboards/moodboard-1.jpg"
+  - "ashley/moodboards/moodboard-2.jpg"
+  - "ashley/moodboards/moodboard-3.jpg"
 sketches:
-  - "3-trees/sketch-1.jpg"
-  - "3-trees/sketch-2.jpg"
-  - "3-trees/sketch-3.jpg"
-  - "3-trees/sketch-4.jpg"
+  - "3-trees/sketches/3-trees-sketches.jpg"
 finals:
-  - "ashley/ashley-photos.jpg"
+  - "ashley/finals-1.jpg"
+  - "ashley/finals-2.jpg"
+  - "ashley/wooden-sign/wooden-sign.jpg"
 
 ---

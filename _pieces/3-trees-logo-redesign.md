@@ -9,7 +9,12 @@ text: "This project was done as a simulated logo redesign for the business calle
 text-2: "Here are my initial sketches."
 text-3: "This is the final piece. The logo was put into a Logo Brand Guidelines booklet to be handed back to the client, outlining all of the branding information and ways that the logo should and should not be used."
 thinking:
-  - "3-trees/moodboard.jpg"
+  - "3-trees/moodboard/moodboard.jpg"
 sketches:
-
+  - "3-trees/sketches/3-trees-sketches.jpg"
 finals:
+  - "3-trees/final/3-trees-final-1.jpg"
+  - "3-trees/final/3-trees-final-2.jpg"
+  - "3-trees/final/3-trees-final-3.jpg"
+  - "3-trees/final/3-trees-final-4.jpg"
+---
