@@ -9,7 +9,7 @@ text: "This GIF was made for fun. It demonstrates my love of typography in a pla
 text-2: "Here are my initial sketches."
 text-3: "This is the final piece."
 thinking:
-  - "gif/moodboard.jpg"
+  - "gif/moodboard/moodboard.jpg"
 sketches:
   - "gif/sketches/sketch-mockup.jpg"
 finals:

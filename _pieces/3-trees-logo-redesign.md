@@ -17,4 +17,5 @@ finals:
   - "3-trees/final/3-trees-final-2.jpg"
   - "3-trees/final/3-trees-final-3.jpg"
   - "3-trees/final/3-trees-final-4.jpg"
+  - "3-trees/final/3-trees-mockup.jpg"
 ---
