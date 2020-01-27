@@ -12,7 +12,8 @@ text-3: "These are my final pieces. Please, go ahead and scan these QR codes wit
 thinking:
   - "elephant-campaign/thinking/thinking.jpg"
 sketches:
-  - "elephant-campaign/sketches.jpg"
+  - "elephant-campaign/sketches/sketches-mockup-1.jpg"
 finals:
-  - "elephant-campaign/elephant-campaign-bus-ad.jpg"
+  - "elephant-campaign/finals/poster-final.jpg"
+  - "elephant-campaign/finals/bus-final.jpg"
 ---
