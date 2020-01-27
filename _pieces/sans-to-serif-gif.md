@@ -13,5 +13,5 @@ thinking:
 sketches:
   - "gif/sketches/sketch-mockup.jpg"
 finals:
-  - "gif/sans-serif.gif"
+  - "gif/final/sans-serif.gif"
 ---
