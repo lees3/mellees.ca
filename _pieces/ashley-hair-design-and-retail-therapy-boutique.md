@@ -13,7 +13,7 @@ thinking:
   - "ashley/moodboards/moodboard-2.jpg"
   - "ashley/moodboards/moodboard-3.jpg"
 sketches:
-  - "3-trees/sketches/3-trees-sketches.jpg"
+  - "ashley/sketches/sketches.jpg"
 finals:
   - "ashley/finals-1.jpg"
   - "ashley/finals-2.jpg"
