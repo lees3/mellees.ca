@@ -6,7 +6,7 @@ heading-3: "Final"
 next_url: /pieces/3-trees-logo-redesign/
 prev_url: /pieces/radio-gaga-lenticular-3d/
 text: |
-
+  "This"
 text-2: "Here are my initial sketches."
 text-3: "These are my final pieces. Please, go ahead and scan these QR codes with your phone."
 thinking:
