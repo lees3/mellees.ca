@@ -5,7 +5,7 @@ heading-2: "Sketches"
 heading-3: "Final"
 next_url: /pieces/elephant-abuse-awareness-campaign/
 prev_url: /pieces/sans-to-serif-gif/
-text: "This project was done as an advertisement for Queen's album The Works, specifically displaying a typographic poster for the song Radio Gaga."
+text: "This project was part of a dream campaign for the band Queen. The goal of this project was to capture the electric feel that Freddie Mercury invoked when he performed one of his many famous hits “Radio Gaga” at Live Aid in 1985."
 text-2: "Here are my initial sketches."
 text-3: "The final piece was created as a lenticular 3D poster!"
 thinking:
