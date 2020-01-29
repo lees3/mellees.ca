@@ -2,6 +2,6 @@
 {% pattern cards/sketches-card %}
 {% pattern cards/final-card %}
 <div class="next-prev-btns">
-{% pattern buttons/previous %}
-{% pattern buttons/next %}
+  {% pattern buttons/previous url=data.prev_url %}
+  {% pattern buttons/next url=data.next_url %}
 </div>

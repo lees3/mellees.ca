@@ -13,6 +13,7 @@ thinking:
 sketches:
   - "elephant-campaign/sketches/sketches-mockup-1.jpg"
 finals:
+  - "elephant-campaign/finals/elephant-poster-1.jpg"
   - "elephant-campaign/finals/poster-final.jpg"
   - "elephant-campaign/finals/bus-final.jpg"
 ---
