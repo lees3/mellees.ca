@@ -7,7 +7,7 @@ next_url: /pieces/sans-to-serif-gif/
 prev_url: /index/
 text: "This is a rebrand I did for a salon in Manotick. I redesigned the logo, business cards, retail cards, and services menu."
 text-2: "Here are my initial sketches."
-text-3: "This is the final piece. The logo was put into a Logo Brand Guidelines booklet to be handed back to the client, outlining all of the branding information and ways that the logo should and should not be used."
+text-3: "These are the final pieces. The logo was put into a Logo Brand Guidelines booklet that was given to the client, outlining all of the branding information and ways that the logo should and should not be used. All of the new designed elements are used in the hair studio today, including a new wooden sign that can be seen from the street!"
 thinking:
   - "ashley/moodboards/moodboard-1.jpg"
   - "ashley/moodboards/moodboard-2.jpg"
