@@ -3,10 +3,7 @@
   max-width: 20em;
 }
 
-.bio {
-  margin-left: 12em;
-  margin-right: 12em;
-}
+
 
 h1 {
   var(--color-primary);
@@ -35,9 +32,18 @@ img {
 
 }
 
+@media only screen and (min-width: 36em) {
+
+  .bio {
+    margin-left: 12em;
+    margin-right: 12em;
+  }
+
+}
+
 @media only screen and (max-width: 70em) {
 
-img {
+/* img {
   max-width: 30em;
-}
+} */
 }

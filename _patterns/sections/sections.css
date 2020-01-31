@@ -18,3 +18,26 @@
   display: flex;
   justify-content: center;
 }
+
+.max-center-pieces {
+  max-width: 35em;
+  margin: 0 auto;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .piece-float-up {
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .piece-float-down {
+    padding-right: 2rem;
+    padding-top: 2rem;
+  }
+
+  .max-center-pieces {
+    max-width: none;
+  }
+
+}

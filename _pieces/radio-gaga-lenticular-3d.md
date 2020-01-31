@@ -14,5 +14,5 @@ sketches:
   - "radio-gaga/sketches/radio-gaga-sketches.jpg"
 finals:
   - "radio-gaga/radio-gaga-final.jpg"
-  - radio-gaga/radio-gaga-1.gif
+  - radio-gaga/radio-gaga-1-small.gif
 ---
