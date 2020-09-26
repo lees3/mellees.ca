@@ -1,6 +1,6 @@
 title: "Buttons"
 description: |
-Buttons will be used sparingly throughout my website to keep it clean and organized.
+  Buttons will be used sparingly throughout my website to keep it clean and organized.
 
 patterns:
   basic:
@@ -21,11 +21,11 @@ patterns:
           source: "site.pieces[0]"
           type: piece
 
-        light:
-          fields:
-            - name: text
-            type: string
-            example: "See collection"
-            - name: url
-            type: url
-            example: "/ashley-hair-design"
+      light:
+        fields:
+          - name: text
+          type: string
+          example: "See collection"
+          - name: url
+          type: url
+          example: "/ashley-hair-design"

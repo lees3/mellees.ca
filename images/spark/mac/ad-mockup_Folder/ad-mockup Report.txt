@@ -1,0 +1,101 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: ad-mockup.ai
+Color Mode: RGB color
+Color Profile: Display
+Ruler Units: pixels
+Artboard Dimensions: 961.7737 px x 540.569 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE 2915 C (Lab)
+PANTONE 3265 C (Lab)
+PANTONE 347 C (Lab)
+PANTONE 376 C (Lab)
+PANTONE 430 C (Lab)
+PANTONE 432 C (Lab)
+PANTONE 485 C (Lab)
+R=112 G=198 B=255 (RGB)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Helvetica Light (TrueType)
+Helvetica (TrueType)
+Helvetica Bold (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/melissalees/Google Drive/Semester Five/Web Dev/portfolio/images/spark/finals/fertilizer-canada/fertilizer-sun.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2206K, 1201 by 627 pixels
+Dimensions: 307 by 211 points 
+Resolution: 281.668 by 213.953 pixels per inch
+
+
+/Users/melissalees/Google Drive/Semester Five/Web Dev/portfolio/images/spark/finals/fertilizer-canada/fertilizer-growing.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2206K, 1201 by 627 pixels
+Dimensions: 307 by 211 points 
+Resolution: 281.668 by 213.953 pixels per inch
+
+
+/Users/melissalees/Google Drive/Semester Five/Web Dev/portfolio/images/spark/finals/fertilizer-canada/fertilier-growth.jpeg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1518K, 960 by 540 pixels
+Dimensions: 303 by 218 points 
+Resolution: 228.119 by 178.349 pixels per inch
+
+
+/Users/melissalees/Google Drive/Semester Five/Web Dev/portfolio/images/spark/finals/fertilizer-canada/fertilizer-dust.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2209K, 1201 by 628 pixels
+Dimensions: 305 by 211 points 
+Resolution: 283.515 by 214.294 pixels per inch
+
+
+/Users/melissalees/Google Drive/Semester Five/Web Dev/portfolio/images/spark/finals/fertilizer-canada/fertilizer-recovery.jpeg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1518K, 960 by 540 pixels
+Dimensions: 304 by 217 points 
+Resolution: 227.368 by 179.171 pixels per inch
+
+
+/Users/melissalees/Google Drive/Semester Five/Web Dev/portfolio/images/spark/finals/fertilizer-canada/fertilizer-stronger.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2206K, 1201 by 627 pixels
+Dimensions: 307 by 211 points 
+Resolution: 281.668 by 213.953 pixels per inch
