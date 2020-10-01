@@ -16,10 +16,6 @@ color: var(--color-text);
   display: none;
 }
 
-.logo-orange {
-  display: none;
-}
-
 .logo:hover .logo-orange {
   display: block;
 }
@@ -29,7 +25,7 @@ color: var(--color-text);
 }
 
 @media only screen and (max-width: 60em) {
-.logo:hover .logo-orange {
-  display: none;
-}
+  .logo-black {
+    display: none;
+  }
 }
