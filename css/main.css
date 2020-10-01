@@ -25,7 +25,7 @@ hr {
   color: var(--color-dark);
 }
 
-@media only screen and (max-width: 90em) {
+@media only screen and (max-width: 120em) {
   .logo-black {
     display: none;
   }
