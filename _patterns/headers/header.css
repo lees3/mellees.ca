@@ -16,10 +16,20 @@ color: var(--color-text);
   display: none;
 }
 
+.logo-orange {
+  display: none;
+}
+
 .logo:hover .logo-orange {
   display: block;
 }
 
 .logo:hover .logo-black {
   display: none;
+}
+
+@media only screen and (max-width: 60em) {
+.logo:hover .logo-black {
+  display: none;
+}
 }
