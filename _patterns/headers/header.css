@@ -29,7 +29,7 @@ color: var(--color-text);
 }
 
 @media only screen and (max-width: 60em) {
-.logo:hover .logo-orange {
+.logo:hover {
   display: none;
 }
 }
